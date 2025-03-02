@@ -1,4 +1,4 @@
-Collecting workspace information# RSKD Talent - HR Management Tool
+RSKD Talent - HR Management Tool
 
 RSKD Talent is a full-stack HR management tool designed to streamline the candidate recruitment process. It provides an intuitive interface for managing candidates, tracking their progress through different recruitment stages, and generating reports.
 

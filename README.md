@@ -92,3 +92,6 @@ The application will be available at http://localhost:3000
 4. Use the "Reject" button to reject a candidate
 5. Generate a PDF report with the "PDF" button
 
+## Demo
+https://github.com/user-attachments/assets/39f2feda-6527-4482-8682-7bd5c633b644
+
